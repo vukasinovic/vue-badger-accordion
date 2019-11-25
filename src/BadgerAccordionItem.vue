@@ -77,6 +77,9 @@
 </script>
 
 <style lang="scss">
+    button:focus {
+        outline: none !important;
+    }
 
     .component-badger-accordion {
         .badger-accordion__panel {
