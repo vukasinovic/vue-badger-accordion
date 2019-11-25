@@ -3,7 +3,7 @@
 
         <dt class="badger-accordion__header">
             <div class="js-badger-accordion-header">
-                <button class="badger-accordion-toggle">
+                <button type="button" class="badger-accordion-toggle">
                   <span class="badger-accordion-title">
                     <slot name="header">Collapse-Title</slot>
                   </span>

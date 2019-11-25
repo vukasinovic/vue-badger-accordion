@@ -1,4 +1,4 @@
-# vue-badger-accordion
+# vue-badger-accordion (Updated: Form Submit problem FIXED)
 Badger-Accordion Component for Vue 2.0
 
 This package is a wrapper for the badger-accordion made by [Stuart Nelson](https://github.com/stuartjnelson)
