@@ -108,11 +108,16 @@
         .js-badger-accordion-header {
             .badger-accordion-toggle {
               width: 100%;
+              outline: none;
               background: transparent;
               border: 0;
               box-shadow: none;
               display: flex;
               align-items: center;
+
+              &:focus {
+                outline: none;
+              }
 
               .badger-accordion-title {
                 flex: 0 0 90%;
